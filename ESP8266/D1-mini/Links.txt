@@ -1,0 +1,30 @@
+main page:
+https://www.wemos.cc/en/latest/d1/d1_mini_3.1.0.html
+
+
+Youtube vid to flash micropython onto the board:
+https://www.google.com/search?q=flash+MicroPython+D1+m1+n1&rlz=1C1CHBF_enCA952CA952&oq=flash+MicroPython+D1+m1+n1&aqs=chrome..69i57j33i160l4.15166j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:6047119a,vid:8_kzeC4AP_M
+
+
+Youtube vid to attach usb devices onto wsl (windows subsystem for linux)
+https://www.youtube.com/watch?v=I2jOuLU4o8E&t=77s
+-------------------------------------------------
+Configuration of the wifi module using micropython:
+https://docs.micropython.org/en/latest/esp8266/tutorial/network_basics.html
+
+
+Command to connect to the REPL on the pyboard ESP8266 (from linux)
+screen /dev/ttyUSB0 115200
+
+commands for WSL to connect the ESP8266 to the wsl system(from windows cmd):
+usbipd list
+-note the Busid down then:
+usbipd wsl attach --busid <BUSID> 
+
+
+ssid and passeord of the ESP8266 ('SAF_ESP-8266' , 'Ferengi!')
+
+
+tutorial interfacing ESP8266 to Raspberrypi pico(Tried it, didn't work):
+https://microdigisoft.com/interfacing-of-esp8266-wifi-module-with-raspberry-pi-pico/
+
