@@ -21,7 +21,7 @@ This program harnesses the dual-core capabilities of the Raspberry Pi Pico micro
 - Therefore, the speed of the second mode's flickering must be set while in the first mode.
 - An indicator LED displays the flickering speed and blinks when changing modes or speed settings.
 
+  [Watch the Simulator in Action](https://www.youtube.com/watch?v=yourvideoid)
   Diagram image:
 ![20230407_190640](https://github.com/SafwanShaib3815/My_micropython_lib/assets/73716969/1a4bad08-7a2c-4386-be58-9f37c8ad8baa)
 
-[Watch the Simulator in Action](https://www.youtube.com/watch?v=yourvideoid)
