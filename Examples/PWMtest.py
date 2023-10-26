@@ -4,7 +4,7 @@ import time
 from machine import Pin, PWM
 
 # Construct PWM object, with LED on Pin(25).
-pwm = PWM(Pin(21))
+pwm = PWM(Pin(5))
 
 # Set the PWM frequency.
 pwm.freq(1000)

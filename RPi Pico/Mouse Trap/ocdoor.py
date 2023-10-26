@@ -4,7 +4,7 @@ from machine import Pin
 
 from machine import PWM
 
-pwm = PWM(Pin(10))
+pwm = PWM(Pin(5))
 
 pwm.freq(50)
 

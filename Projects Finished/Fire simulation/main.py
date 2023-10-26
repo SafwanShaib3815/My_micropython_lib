@@ -11,7 +11,7 @@ Features:
 -The program has 2 modes and 3 speeds for each.
 -First mode (always runs first as deafault) fades inner 3 LEDs in and out and flickers the outer 6 LEDs.
 -Second mode is the opposite of that (inner LEDs flicker and outer ones fade).
--To toggle between speeds, short click on the button and wait 3 seconds (The speed is only for the flicker affect).
+-To toggle between speeds, short click on the button and wait 3 seconds (The speed can only be set while in the flicker mode).
 -To set to the second mode, long click on the button (minimum of two seconds), then wait for 3 seconds.
 -Short clicking while in the second mode will retrun back to the first mode.
 -Thus the speed of the second mode flickering has to be set while in the first mode.

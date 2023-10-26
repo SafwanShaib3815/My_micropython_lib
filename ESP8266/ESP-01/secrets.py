@@ -1,5 +1,4 @@
-'''
-ssid = 'Safwan'
+'''ssid = 'Safwan'
 password = 'imsa7171'
 '''
 ssid = 'Starfleet Academy'
